@@ -1,0 +1,551 @@
+modifier,aspect,attribute,sentiment,review_id,gold
+very helpful,staff,staff,1,292,36
+helpful,staff,staff,1,240,36
+helpful,staff,staff,1,111,36
+always helpful,employees,staff,1,155,36
+helpful,people,staff,1,32,36
+pretty helpful,staff,staff,1,45,36
+always helpful,people,staff,1,212,36
+very helpful,staff,staff,1,294,36
+very helpful,staff,staff,1,17,36
+helpful,staff,staff,1,23,36
+helpful,staff,staff,1,40,36
+helpful,people,staff,1,25,36
+helpful,staff,staff,1,308,36
+very helpful,staff,staff,1,12,36
+perfect,location,location,1,83,94
+perfect,location,location,1,49,94
+good,location,location,1,217,94
+convenient to,location,location,1,280,94
+easy,access to everywhere,location,1,243,94
+great,location,location,1,152,94
+great,location in downtown sf,location,1,144,94
+one block from,center city,location,1,123,94
+good,location,location,1,61,94
+very good,location,location,1,122,94
+great,location,location,1,179,94
+good,central location,location,1,204,94
+close to,center city,location,1,123,94
+great,location,location,1,191,94
+very good,location,location,1,73,94
+great,location,location,1,272,94
+great,location,location,1,12,94
+great,location,location,1,16,94
+stellar,location,location,1,134,94
+great,location,location,1,261,94
+pretty awesome,location,location,1,180,94
+lovely,downtown location,location,1,302,94
+great,location,location,1,304,94
+love,location,location,1,74,94
+in walking distance,everything,location,1,27,94
+great,location,location,1,141,94
+really good,location,location,1,116,94
+close to,places,location,1,301,94
+very convenient,location,location,1,225,94
+great,location,location,1,305,94
+convenient,location,location,1,3,94
+great,location,location,1,79,94
+great,location,location,1,270,94
+decent,location,location,1,148,94
+great,location,location,1,55,94
+great,location,location,1,47,94
+great,location in downtown sf,location,1,14,94
+fantastic,location,location,1,267,94
+great,location,location,1,81,94
+very close to,downtown location,location,1,288,94
+excellent,location,location,1,196,94
+great,location,location,1,85,94
+great,location,location,1,39,94
+excellent,location,location,1,108,94
+rather convenient,location,location,1,201,94
+great,location,location,1,114,94
+great,location,location,1,107,94
+good,location,location,1,135,94
+really nice,location,location,1,250,94
+close to,things,location,1,114,94
+amazing,location,location,1,100,94
+average,location,location,1,3,94
+nice,location,location,1,124,94
+very good,location,location,1,318,94
+convenient to,location,location,1,177,94
+perfect,location,location,1,313,94
+fabulous,location,location,1,23,94
+close to,everything,location,1,145,94
+great,location,location,1,40,94
+great,location,location,1,17,94
+very well located,place,location,1,57,94
+great,location,location,1,316,94
+great,location,location,1,294,94
+awesome,location,location,1,259,94
+great,location,location,1,56,94
+conveniently away from,tourist areas,location,1,78,94
+great,location,location,1,95,94
+perfect,location,location,1,277,94
+good,location,location,1,223,94
+great,location,location,1,90,94
+perfect,location,location,1,260,94
+decent enough,location,location,1,129,94
+love,location,location,1,240,94
+close to,things,location,1,164,94
+great,location,location,1,142,94
+great,location,location,1,19,94
+great,location,location,1,158,94
+great,location,location,1,181,94
+great,central location,location,1,155,94
+great,location,location,1,20,94
+great,location,location,1,202,94
+walking distance to,everything,location,1,198,94
+great,location,location,1,171,94
+great,location,location,1,296,94
+near,downtown,location,1,211,94
+great,location,location,1,222,94
+centrally located,place,location,1,317,94
+great,location,location,1,10,94
+great,location,location,1,162,94
+easy,access to all if san francisco,location,1,197,94
+well located,hotel,location,1,111,94
+good,location,location,1,315,94
+boutique,location,location,1,118,94
+nicely situated,hotel,location,1,83,94
+great,location,location,1,292,94
+great,location,location,1,309,94
+great,location,location,1,248,94
+convenient for,location,location,1,264,94
+great,location,location,1,27,94
+centrally located,hotel,location,1,127,94
+love,location,location,1,232,94
+great,location,location,1,102,94
+great,location,location,1,224,94
+real good,location,location,1,53,94
+amazing,location,location,1,32,94
+absolutely amazing,location,location,1,21,94
+great,location,location,1,164,94
+awesome,location,location,1,45,94
+great,location,location,1,238,94
+great,location,location,1,187,94
+super,location for visiting san francisco,location,1,6,94
+convenient,location,location,1,311,94
+great,central location,location,1,132,94
+excellent,location,location,1,293,94
+easy to get,everywhere,location,1,132,94
+great,location,location,1,227,94
+good,location,location,1,178,94
+convenient,location,location,1,233,94
+great,location,location,1,252,94
+perfect,location,location,1,235,94
+great,location,location,1,236,94
+near,places,location,1,216,94
+great,central location,location,1,24,94
+convenient,location,location,1,97,94
+very nice,location,location,1,247,94
+close to,everything,location,1,35,94
+hard to find,location,location,1,61,94
+small,suite,size,0,198,181
+quite small,studio,size,0,207,181
+really small,room,size,0,125,181
+small,rooms,size,0,245,181
+small,room,size,0,148,181
+small,studio,size,0,23,181
+small,rooms,size,0,288,181
+tiny,rooms,size,0,180,181
+small,rooms,size,0,18,181
+small,rooms,size,0,76,181
+small,room,size,0,198,181
+very small,rooms,size,0,124,181
+small,studio rooms,size,0,46,181
+small,room,size,0,177,181
+a bit small,room,size,0,83,181
+small,room,size,0,70,181
+very small,room,size,0,323,181
+small,room,size,0,315,181
+a bit small,rooms,size,0,288,181
+quite small,room,size,0,134,181
+tiny,rooms,size,0,180,181
+cramped,room,size,0,213,181
+small,rooms,size,0,100,181
+very small,rooms,size,0,275,181
+small,rooms,size,0,210,181
+small,room,size,0,282,181
+super small,rooms,size,0,221,181
+a little bit small,room,size,0,39,181
+very small,rooms,size,0,310,181
+really small,rooms,size,0,45,181
+small,room,size,0,266,181
+small,rooms,size,0,87,181
+smaller,rooms,size,0,121,181
+small old,rooms,size,0,295,181
+small,room,size,0,97,181
+very small,studio rooms,size,0,259,181
+very small,room,size,0,77,181
+small,room,size,0,96,181
+very small,room,size,0,40,181
+very small,room,size,0,73,181
+small,rooms,size,0,68,181
+smallest,accommodation,size,0,146,181
+smaller,rooms,size,0,277,181
+small,room,size,0,21,181
+small,rooms,size,0,244,181
+small,rooms,size,0,139,181
+too small,room,size,0,89,181
+small,rooms,size,0,61,181
+great,staff,staff,1,210,46
+excellent,service,staff,1,117,46
+great,staff,staff,1,33,46
+wonderful,staff,staff,1,6,46
+great,staff,staff,1,20,46
+great,staff,staff,1,101,46
+excellent,staff,staff,1,179,46
+great,staff,staff,1,313,46
+excellent,service,staff,1,140,46
+great,staff,staff,1,320,46
+excellent,staff,staff,1,289,46
+great,staff,staff,1,60,46
+great,service,staff,1,189,46
+world class,staff,staff,1,75,46
+great,staff,staff,1,214,46
+great,service overall,staff,1,138,46
+wonderful,staff,staff,1,65,46
+great,staff,staff,1,16,46
+high,service,staff,1,78,46
+fantastic,staff,staff,1,242,46
+amazing,service,staff,1,194,46
+excellent,service,staff,1,244,46
+great,staff,staff,1,230,46
+great,staff,staff,1,259,46
+great,staff,staff,1,208,46
+excellent,staff,staff,1,276,46
+very good,service,staff,1,140,46
+great,staff,staff,1,245,46
+great,staff,staff,1,79,46
+amazing,service,staff,1,182,46
+great,service,staff,1,141,46
+excellent,service,staff,1,126,46
+wonderful,staff,staff,1,16,46
+great,service,staff,1,98,46
+amazing,staff,staff,1,154,46
+excellent,staff,staff,1,98,46
+awesome,staff,staff,1,21,46
+top notch,staff,staff,1,188,46
+great,staff,staff,1,286,46
+great,staff,staff,1,199,46
+very good,service,staff,1,57,46
+wonderful,staff,staff,1,313,46
+good,service,staff,1,103,46
+outstanding,staff,staff,1,112,46
+awesome,staff,staff,1,203,46
+very good,service,staff,1,309,46
+great,weekend,general,1,115,5
+good,everything,general,1,237,5
+good,overall,general,1,61,5
+great,experience,general,1,104,5
+nice,stay,general,1,304,5
+great,week,general,1,14,5
+great,stay,general,1,299,5
+great,hotel,general,1,67,4
+love,sf resort,general,1,4,4
+great,accommodation,general,1,60,4
+great,place,general,1,90,4
+great,spot,general,1,134,4
+nice,resort,general,1,275,4
+nice,place,general,1,287,4
+great,place,general,1,89,4
+great,place,general,1,35,4
+great,place,general,1,159,4
+really nice,place,general,1,307,4
+great,place,general,1,107,4
+great,place,general,1,54,4
+nice,place,general,1,208,4
+excellent,accommodations,general,1,175,4
+nice,place,general,1,173,4
+really nice,accommodation,general,1,60,4
+excellent,hotel,general,1,169,4
+great,place,general,1,136,4
+awesome,resorts,general,1,152,4
+very nice,place,general,1,121,4
+nice,place,general,1,26,4
+nice,accomadations,general,1,198,4
+favorite,resorts,general,1,5,4
+great,hotel,general,1,297,4
+excellent,place,general,1,260,4
+nice,place,general,1,48,4
+very nice,place,general,1,33,4
+very good,place,general,1,57,4
+great,place,general,1,252,4
+great,spot,general,1,70,4
+nice,place,general,1,31,4
+good,hotel,general,1,98,4
+very nice,place,general,1,218,4
+perfect,place,general,1,10,4
+amazing,condo,general,1,220,4
+so nice,place,general,1,312,4
+great,place,general,1,126,4
+love,place,general,1,212,4
+love,place,general,1,188,4
+love,place,general,1,65,4
+nice,hotel,general,1,102,4
+love,hotel,general,1,66,4
+nice,hotel,general,1,147,4
+nice,place,general,1,252,4
+great,hotel,general,1,66,4
+nice,place,general,1,184,4
+nice,service,staff,1,38,40
+very very friendly,folks,staff,1,157,40
+very friendly,staff,staff,1,205,40
+nice,staff,staff,1,184,40
+great friendly,staff,staff,1,270,40
+very friendly,staff,staff,1,115,40
+friendly,staff,staff,1,53,40
+super friendly,staff,staff,1,297,40
+friendly,staff,staff,1,236,40
+great,hospitality,staff,1,214,40
+personable,staff,staff,1,116,40
+friendly,staff,staff,1,187,40
+friendly,staff,staff,1,120,40
+friendly,staff,staff,1,146,40
+welcoming,staff,staff,1,319,40
+nice,employees,staff,1,93,40
+very polite,staff,staff,1,305,40
+nice,staff,staff,1,323,40
+nice,staff,staff,1,15,40
+clean clean friendly,staff,staff,1,284,40
+nice,staff,staff,1,123,40
+very friendly,staff,staff,1,11,40
+friendly,staff,staff,1,122,40
+nice,personnel,staff,1,103,40
+incredibly poliet,hotel staff,staff,1,167,40
+very warm,staff members,staff,1,201,40
+friendly,staff,staff,1,24,40
+very friendly,staff,staff,1,10,40
+friendly,staff,staff,1,85,40
+amazingly friendly,staff,staff,1,197,40
+great,hospitality,staff,1,199,40
+happy,staff,staff,1,98,40
+nice,people,staff,1,315,40
+nice,staff,staff,1,241,40
+friendly,staff,staff,1,233,40
+great,people,staff,1,172,40
+very nice,staff,staff,1,235,40
+friendly,staff,staff,1,223,40
+nice,service,staff,1,103,40
+very accommodating,people,staff,1,247,40
+very nice,staff,staff,1,124,40
+friendly,staff,staff,1,238,40
+really cute,staff,staff,1,241,40
+courteous,staff service,staff,1,151,40
+friendly,staff,staff,1,293,40
+nice,staff,staff,1,52,40
+very friendly,staff,staff,1,283,40
+very pleasant,staff,staff,1,26,40
+friendly,staff,staff,1,180,40
+really nice,staff,staff,1,60,40
+very welcoming,staff,staff,1,156,40
+friendly,staff,staff,1,142,40
+nicest,staff member,staff,1,118,40
+attentive,staff,staff,1,214,40
+accommodating,staff,staff,1,266,40
+friendly,staff,staff,1,56,40
+real good care,people,staff,1,172,40
+nice,staff,staff,1,102,40
+friendly,staff,staff,1,193,40
+attentive,staff,staff,1,199,40
+incredibly poliet,hotel staff,staff,1,195,40
+incredibly poliet,hotel staff,staff,1,166,40
+friendly,staff,staff,1,277,40
+happy,staff,staff,1,85,40
+courteous,staff,staff,1,127,40
+nice,people,staff,1,107,40
+very polite,staff,staff,1,229,40
+friendly,staff,staff,1,288,40
+easy,access to union square and china town,location,1,224,92
+two blocks from,union square,location,1,41,92
+a couple blocks away,union square,location,1,79,92
+several blocks from,union square,location,1,219,92
+walking distance,union square,location,1,184,92
+2 blocks from,union square,location,1,142,92
+a couple blocks from,union square,location,1,261,92
+easy,access to union squire,location,1,149,92
+close to,union square,location,1,87,92
+only 2 blocks from,union square,location,1,318,92
+close to,union square,location,1,68,92
+walking distance,union square,location,1,291,92
+within walking distance,union square,location,1,113,92
+near,union square,location,1,318,92
+within walking distance,union square,location,1,127,92
+couple blocks from,union square,location,1,261,92
+excellent,location to union square,location,1,289,92
+not far from,union square,location,1,304,92
+convenient to,union square,location,1,299,92
+close to,union square,location,1,142,92
+walking distance,china town,location,1,196,95
+adjacent to,chinatown,location,1,158,95
+couple blocks from,entrance to chinatown,location,1,134,95
+close to,china town,location,1,142,95
+quick walk,chinatown,location,1,145,95
+1 block from,entrance to chinatown,location,1,134,95
+good,location near china town,location,1,274,95
+one block from,china town gate,location,1,249,95
+easy to get,chinatown,location,1,132,95
+a couple blocks from,chinatown entrance,location,1,261,95
+within walking distance,chinatown,location,1,113,95
+very close to,china town,location,1,73,95
+awesome,walk to chinatown,location,1,13,95
+two blocks to,chinatown,location,1,157,95
+great,location near chinatown,location,1,263,95
+close to,chinatown,location,1,140,95
+walking distance,chinatown,location,1,304,95
+a block away from,dragon gates of chinatown,location,1,219,95
+walking distance,chinatown,location,1,37,95
+few blocks from,steps from chinatown,location,1,55,95
+convenient to,chinatown,location,1,177,95
+several blocks from,dragon gates of chinatown,location,1,219,95
+few minute walk to,chinatown,location,1,132,95
+right next to,chinatown,location,1,95,95
+short walk away,chinatown,location,1,46,95
+close to,chinatown,location,1,53,95
+close to,china town,location,1,242,95
+only a block from,chinatown,location,1,262,95
+right next to,chinatown,location,1,48,95
+a block from,chinatown entrance,location,1,261,95
+2 blocks from,china town,location,1,142,95
+two blocks from,chinatown,location,1,14,95
+close to,chinatown,location,1,320,95
+just outside,chinatown,location,1,304,95
+walking distance,chinatown,location,1,43,95
+one block from,chinatown,location,1,145,95
+walking distance,china town,location,1,108,95
+clean,rooms,cleanliness,1,205,136
+clean,room,cleanliness,1,227,136
+clean,room,cleanliness,1,162,136
+clean,units,cleanliness,1,12,136
+clean,rooms,cleanliness,1,236,136
+clean,room,cleanliness,1,270,136
+clean,room,cleanliness,1,129,136
+clean cozy,room,cleanliness,1,85,136
+clean,room,cleanliness,1,283,136
+clean,room,cleanliness,1,171,136
+clean,room,cleanliness,1,79,136
+clean,rooms,cleanliness,1,10,136
+clean,room,cleanliness,1,151,136
+clean,units,cleanliness,1,17,136
+clean,rooms,cleanliness,1,268,136
+really clean,room,cleanliness,1,153,136
+well decorated,room,style,1,57,57
+attractive,decor,style,1,97,57
+nice modern,decorating,style,1,266,57
+nice,decor,style,1,84,57
+updated,decor,style,1,279,57
+decent,service,staff,1,78,44
+acceptable,service,staff,1,196,44
+okay,staff,staff,0,130,44
+okay,staff,staff,0,131,44
+adequate,services,staff,1,129,44
+acceptable,service,staff,1,108,44
+size,rooms,size,1,175,174
+bigger,room,size,1,84,174
+small,market,size,0,304,174
+very lively,big,size,1,114,174
+bigger,rooms,size,1,116,174
+largest,trader joe 's,size,1,263,174
+great,rooms,room,1,168,124
+nice,rooms,room,1,156,124
+great,room,room,1,230,124
+very nice,room,room,1,140,124
+nice,rooms,room,1,264,124
+great,room,room,1,39,124
+nice,room,room,1,137,124
+nice,rooms,room,1,318,124
+awesome,rooms,room,1,45,124
+really cute,rooms,room,1,241,124
+great,room,room,1,90,124
+very nice,rooms,room,1,284,124
+nice,rooms,room,1,296,124
+nice,rooms,room,1,300,124
+nice,room,room,1,93,124
+amazing,rooms,room,1,100,124
+nice,rooms,room,1,276,124
+very nice,room,room,1,15,124
+good,rooms,room,1,286,124
+great,rooms,room,1,24,124
+clean,everything,cleanliness,1,116,133
+clean,place,cleanliness,1,199,133
+clean,place,cleanliness,1,214,133
+clean,place,cleanliness,1,223,133
+clean friendly,hotel,cleanliness,1,278,133
+clean,place,cleanliness,1,267,133
+comfortable,bed,bed,1,46,152
+comfortable,beds,bed,1,156,152
+comfortable,bed,bed,1,57,152
+comfortable,beds,bed,1,283,152
+comfortable,beds,bed,1,227,152
+comfortable,bed,bed,1,177,152
+comfortable,studio rooms,comfort,1,46,162
+very comfortable,rooms,comfort,1,24,162
+comfortable,rooms,comfort,1,253,162
+comfortable,stay,comfort,1,95,162
+comfortable,room,comfort,1,153,162
+two blocks from,transit,location,1,14,107
+near,public transportation,location,1,318,107
+easy walking,public transportation modes,location,1,236,107
+pretty easy,ride,location,1,250,107
+close to,transit,location,1,14,107
+well served,public transport,location,1,41,107
+about 18 inches from,area,location,1,180,91
+near,rooms,location,1,168,91
+convenient,walk,location,1,235,91
+conveniently away from,located,location,1,78,91
+very convenient to,end,location,1,186,91
+good,location disiked,location,1,8,91
+lots of,union square,location,1,41,91
+well served,san francisco,location,1,41,91
+fine,wi,location,1,288,91
+good,uber,location,1,304,91
+two blocks to,place,location,1,157,91
+one block,location,location,1,41,91
+full of,neighborhood,location,1,102,91
+most wonderful,city,general,1,106,1
+great,job,general,1,50,1
+many,places,general,1,6,1
+favorite,places,general,1,319,1
+love,city,general,1,66,1
+great,city,general,1,66,1
+perpetual,daylight,general,1,50,1
+very lively,city,general,1,164,1
+very lively,city,general,1,114,1
+loved,san fran,general,1,20,1
+awesome,san francisco,general,1,21,1
+perfect,san francisco,general,1,313,1
+walking distance,restaurants,food,1,28,75
+abundance of,restaurants,food,1,103,75
+lots of,restaurants,food,1,41,75
+many,restaurants,food,1,253,75
+easy,access to food,food,1,250,75
+close range,resturants,food,1,292,75
+nearby,indoor mall,location,1,263,97
+convenient for,shopping,location,1,264,97
+great,shopping,location,1,70,97
+lots of,shops,location,1,270,97
+very convenient to,shop,location,1,186,97
+nearby,stores,location,1,242,97
+a few blocks away,shopping,location,1,264,97
+great,stores,location,1,263,97
+few blocks down,indoor mall,location,1,263,97
+great,customer service,staff,1,198,34
+great,customer service,staff,1,174,34
+great,customer services,staff,1,11,34
+high,level of customer service,staff,1,229,34
+usually pleasant,guest services people,staff,1,74,34
+old,building,style,0,193,55
+old,hotel,style,0,319,55
+old,hotel,style,0,6,55
+old style,hotel,style,0,297,55
+old,building,style,0,197,55
+old,building,style,0,161,55
+old,building,style,0,240,55
+old,hotel,style,0,231,55
+small,historic building,size,0,266,177
+small,place,size,0,131,177
+small,property,size,0,123,177
+small,place,size,0,130,177
+small,hotel,size,0,198,177
+way to small,place,size,0,176,177
+a bit small,hotel,size,0,83,177

@@ -1,0 +1,492 @@
+modifier,aspect,attribute,sentiment,review_id,gold
+close,tram station,location,1,211,138
+just nearby,tram,location,1,228,138
+direct to,streetcar line,location,1,241,138
+right outside,stop,location,1,247,138
+close,train,location,1,27,138
+right behind,mini train stops,location,1,195,138
+perfect for,tram station,location,1,9,138
+right in,lightrail stops,location,1,11,138
+close to,rail car,location,1,146,138
+20 mins drive,tram station,location,1,232,138
+next to,streetcar line,location,1,241,138
+close to,train line into the city,location,1,87,138
+next to,tram station,location,1,232,138
+handy for,trams to san francisco,location,1,67,138
+very close to,tram stop,location,1,134,138
+right across,mini train stops,location,1,195,138
+just nearby,tram,location,1,204,138
+close to,train,location,1,66,138
+50 feet away,train tracks,location,1,141,138
+right beside,streetcars,location,1,110,138
+next to,streetcar line,location,1,19,138
+very thin,walls,room,0,56,188
+thin enough,walls,room,0,252,188
+very thin,walls,room,0,236,188
+so thin,walls,room,0,69,188
+paper thin,walls,room,0,63,188
+very thin,walls,room,0,164,188
+very thin,walls,room,0,13,188
+not very well insulated,walls,room,0,83,188
+thin,walls,room,0,4,188
+very low,water pressure,bathroom,0,228,282
+frustrating,water pressure,bathroom,0,77,282
+very low,water pressure,bathroom,0,204,282
+no pressure,shower,bathroom,0,135,282
+zero,water pressure,bathroom,0,77,282
+low,water pressure,bathroom,0,247,282
+low,water pressure,bathroom,0,85,282
+poor,water pressure,bathroom,0,236,282
+huge,room,size,1,99,335
+spacious,room,size,1,105,335
+big,room,size,1,134,335
+huge,room,size,1,218,335
+relatively large,room,size,1,144,335
+spacious,room,size,1,92,335
+spacious,room,size,1,119,335
+dirty,carpet,cleanliness,0,159,235
+dirty,carpet,cleanliness,0,116,235
+stained,carpet,cleanliness,0,200,235
+stinky,carpet,cleanliness,0,13,235
+dirty old,carpet,cleanliness,0,238,235
+broken,towel bars,bathroom,0,239,284
+missing,towel rack,bathroom,0,44,284
+broken,towel rack,bathroom,0,245,284
+broken,towel rail,bathroom,0,45,284
+broken,towel bar,bathroom,0,14,284
+broken off,towel rail,bathroom,0,18,284
+broken,towel rack,bathroom,0,40,284
+ripped,towel racks,bathroom,0,196,284
+broken,towel rack,bathroom,0,44,284
+missing,towel rack,bathroom,0,40,284
+uncomfortable,beds,bed,0,86,302
+uncomfortable,beds,bed,0,180,302
+a bit uncomfortable,beds,bed,0,240,302
+very uncomfortable,beds,bed,0,20,302
+rock hard,beds,bed,0,102,302
+uncomfortable,beds,bed,0,48,302
+free,parking,parking,1,192,87
+free,parking,parking,1,181,87
+free,parking,parking,1,43,87
+free,parking,parking,1,92,87
+free,parking,parking,1,185,87
+free,parking,parking,1,194,87
+included,parking,parking,1,256,87
+free,parking,parking,1,258,87
+included,parking,parking,1,83,87
+free,parking,parking,1,64,87
+free,carpark,parking,1,70,87
+free,parking,parking,1,131,87
+free,parking hostel,parking,1,216,87
+free,parking,parking,1,105,87
+free,parking,parking,1,96,87
+free,parking,parking,1,223,87
+fantastic,location,location,1,6,135
+great,location,location,1,164,135
+great,location,location,1,16,135
+great,location,location,1,193,135
+awesome,location,location,1,11,135
+very friendly,location,location,1,130,135
+great,location,location,1,85,135
+good,location,location,1,156,135
+good,location,location,1,168,135
+excellent,location,location,1,194,135
+excellent,location,location,1,124,135
+good for,location,location,1,118,135
+great,location for,location,1,152,135
+great,location,location,1,180,135
+good,location,location,1,186,135
+great,location,location,1,135,135
+liked,location,location,1,153,135
+amazing,location,location,1,12,135
+perfect for,location,location,1,9,135
+amazing,location,location,1,83,135
+great,location,location,1,36,135
+great,location,location,1,192,135
+great,location,location,1,200,135
+nice,location,location,1,17,135
+fantastic,location,location,1,2,135
+loved,location,location,1,229,135
+great,location,location,1,195,135
+perfect,location,location,1,251,135
+great,location,location,1,249,135
+best benefit,location,location,1,128,135
+excellent for,location,location,1,218,135
+great,location,location,1,116,135
+very good,location,location,1,13,135
+great,location for,location,1,191,135
+okay,location,location,1,224,135
+excellent,location,location,1,244,135
+good,location,location,1,157,135
+excellent,location,location,1,5,135
+loved,location,location,1,100,135
+perfect for,location,location,1,114,135
+good,location,location,1,240,135
+perfect,location,location,1,58,135
+good,location,location,1,73,135
+like,location,location,1,146,135
+excellent,location,location,1,25,135
+excellent,geographic location,location,1,198,135
+ideal,location,location,1,65,135
+great,location,location,1,201,135
+excellent,location,location,1,148,135
+nice,location,location,1,205,135
+friendly,staff,staff,1,180,49
+very nice,woman,staff,1,177,49
+very friendly,staff,staff,1,130,49
+friendly,staff,staff,1,199,49
+polite,man,staff,1,97,49
+very friendly,staff,staff,1,147,49
+friendly,staff,staff,1,191,49
+friendly,staff,staff,1,87,49
+very polite,staff,staff,1,221,49
+very nice,staff,staff,1,36,49
+friendly,personel,staff,1,170,49
+very nice,people,staff,1,132,49
+nice,staff,staff,1,40,49
+friendly,staff,staff,1,64,49
+friendly,staff,staff,1,42,49
+friendly,staff,staff,1,55,49
+not unfriendly,staff,staff,1,256,49
+friendly,staff,staff,1,82,49
+friendly,staff,staff,1,252,49
+nice,staff,staff,1,31,49
+pleasant,staff,staff,1,47,49
+friendly,gentleman,staff,1,43,49
+dirty,sheets,cleanliness,0,49,223
+not as clean,sheets,cleanliness,0,25,223
+dirty,bed,cleanliness,0,116,223
+not clean,linens,cleanliness,0,25,223
+not as clean,bed spread,cleanliness,0,25,223
+very close,sea,location,1,177,140
+very close to,beach,location,1,170,140
+really close to,beach,location,1,84,140
+close to,beach,location,1,145,140
+close to,beach,location,1,261,140
+walking distance,beach,location,1,96,140
+close to,beach,location,1,172,140
+less than 2 blocks away,beach,location,1,0,140
+very close to,beach,location,1,34,140
+2 mins walk,beach,location,1,250,140
+close to,beach,location,1,209,140
+close,access to beach,location,1,165,140
+close to,beach,location,1,179,140
+close to,beach,location,1,112,140
+close to,beach,location,1,90,140
+real close to,beach,location,1,75,140
+short walk,ocean beach,location,1,36,140
+close to,beach,location,1,109,140
+near,beach,location,1,93,140
+close,beach,location,1,98,140
+close to,beach,location,1,87,140
+2 mins,walk to beach,location,1,89,140
+very close to,ocean,location,1,216,140
+a block from,ocean,location,1,40,140
+close to,beach,location,1,235,140
+unbeatable,beach access,location,1,135,140
+close to,beach,location,1,158,140
+within walking distance,beach,location,1,5,140
+close to,ocean beach,location,1,167,140
+200metres away,surf beach,location,1,124,140
+close,beach,location,1,211,140
+short block walk to,beach,location,1,195,140
+2 blocks from,beach,location,1,11,140
+2 blocks from,beach access,location,1,207,140
+only a block away,pacific ocean,location,1,10,140
+close to,beach,location,1,146,140
+very close to,beach,location,1,18,140
+short walk to,beach,location,1,194,140
+good,location near the ocean,location,1,189,140
+right by,ocean beach,location,1,192,140
+nearby,beach,location,1,163,140
+close to,beach,location,1,110,140
+near,beach,location,1,64,140
+close to,beach,location,1,133,140
+short drive to,beach,location,1,96,140
+close to,beach,location,1,175,140
+very close,beach,location,1,83,140
+within walking distance,beach,location,1,187,140
+walking distance to,beach,location,1,181,140
+excellent,location to the beach,location,1,142,140
+across,beach,location,1,117,140
+near the,ocean,location,1,173,140
+just across,beach,location,1,240,140
+short,walk to the ocean,location,1,247,140
+great,beach access,location,1,135,140
+so close to the,pacific ocean,location,1,38,140
+50 metres from door,surf beach,location,1,124,140
+two blocks from,beach,location,1,168,140
+just walk away,beach,location,1,64,140
+close to,beach,location,1,17,140
+one block from,beach,location,1,43,140
+close to,beach,location,1,3,140
+fairly comfortable,bed,bed,1,107,301
+comfortable,beds,bed,1,207,301
+comfy,beds,bed,1,40,301
+very comfortable,bed,bed,1,83,301
+ease of,bed,bed,1,138,301
+comfortable,beds,bed,1,209,301
+comfortable,bed,bed,1,77,301
+comfortable,beds,bed,1,11,301
+comfortable,bed,bed,1,14,301
+really comfy,bed,bed,1,247,301
+very comfy,beds,bed,1,36,301
+very comfortable,bed,bed,1,142,301
+good,bed,bed,1,33,301
+comfortable,bed,bed,1,92,301
+comfortable,bed,bed,1,7,301
+amazing,staff,staff,1,12,59
+liked,staff,staff,1,74,59
+great,staff,staff,1,195,59
+lovely,staff,staff,1,188,59
+good,staff,staff,1,184,59
+very old,rooms,style,0,157,74
+old,rooms,style,0,210,74
+old,room,style,0,123,74
+old,rooms,style,0,42,74
+very old,room,style,0,215,74
+worst,motel,general,0,212,6
+not a nice,place,general,0,146,6
+poor,motel,general,0,208,6
+poor,motel,general,0,120,6
+worse,hotel,general,0,101,6
+worst,motel,general,0,258,6
+horrible,place,general,0,165,6
+as bad,place,general,0,136,6
+worst,hotel,general,0,212,6
+worst,place,general,0,139,6
+rude,smell,cleanliness,0,217,230
+awful,smell,cleanliness,0,253,230
+strange,smell,cleanliness,0,241,230
+unpleasantly,smelled,cleanliness,0,243,230
+musty,odor,cleanliness,0,184,230
+strong,smell,cleanliness,0,105,230
+quite shabby,smelled,cleanliness,0,243,230
+walking distance,zoo,location,1,52,132
+just across,zoo,location,1,240,132
+2 blocks from,zoo,location,1,207,132
+just walk away,zoo,location,1,64,132
+a block from,zoo,location,1,40,132
+near,zoo,location,1,229,132
+across,zoo,location,1,222,132
+across,zoo,location,1,117,132
+just opposite,zoo,location,1,82,132
+2 mins walk,zoo,location,1,250,132
+right across the street,zoo,location,1,40,132
+across,zoo,location,1,229,132
+good,location near the zoo,location,1,155,132
+close to,zoo,location,1,145,132
+walking distance,zoo,location,1,5,132
+right next to,zoo,location,1,250,132
+just across the street,zoo,location,1,188,132
+right across,zoo,location,1,36,132
+real close to,sf zoo,location,1,75,132
+close to,zoo,location,1,47,132
+walking distance to,zoo,location,1,181,132
+across the street,zoo,location,1,168,132
+short walk,zoo,location,1,36,132
+two blocks from,zoo,location,1,168,132
+near,zoo,location,1,64,132
+close to,zoo,location,1,215,132
+right across the,zoo,location,1,187,132
+short walk to,sf zoo,location,1,194,132
+best benefit,price,price,1,128,108
+friendly,pricing,price,1,65,108
+convenient,price,price,1,227,108
+good,value for the money,price,1,27,108
+great,value,price,1,147,108
+good,price,price,1,8,108
+great,rate,price,1,121,108
+good,value for san francisco,price,1,241,108
+great,price,price,1,99,108
+good,price,price,1,157,108
+cheap,places,price,1,261,108
+cheap,places,price,1,102,108
+unbeatable,price,price,1,180,108
+filthy,place,cleanliness,0,102,238
+filthy,place,cleanliness,0,234,238
+disgustingly dirty,hotel,cleanliness,0,200,238
+dirty,everything,cleanliness,0,254,238
+dirty,place,cleanliness,0,257,238
+not clean,property,cleanliness,0,123,238
+great,motel,general,1,188,10
+great,place,general,1,201,10
+good,venue,general,1,168,10
+nice,place,general,1,186,10
+great,place,general,1,6,10
+glamorous,place,general,1,223,10
+great,place,general,1,259,10
+great,place,general,1,2,10
+nice,place,general,1,151,10
+good,place,general,1,186,10
+good,property,general,1,240,10
+very cute,spot,general,1,100,10
+right out back,bus line stops,location,1,259,141
+close to,bus routes,location,1,10,141
+great catching,bus,location,1,250,141
+not far away,bus,location,1,204,141
+very convenient,bus routes,location,1,10,141
+not far away,bus,location,1,228,141
+just nearby,bus,location,1,228,141
+just nearby,bus,location,1,204,141
+right around,muni l line,location,1,225,129
+right at the end,muni line,location,1,256,129
+right next to,l line,location,1,26,129
+very convenient,muni access,location,1,226,129
+close to,muni l line,location,1,5,129
+right by,muni stop,location,1,249,129
+close to,muni stop,location,1,92,129
+right outside,muni,location,1,117,129
+right across,mini bus stops,location,1,195,129
+right in,munimetro,location,1,11,129
+close to,muni line,location,1,73,129
+right on,muni l line,location,1,5,129
+nice,l line,location,1,26,129
+distant from,main sights,location,1,82,130
+far from,downtown,location,1,163,130
+distant from,location,location,1,82,130
+so far from,location,location,1,177,130
+a little far out from,central attractions of san francisco,location,1,11,130
+long,drive,location,1,219,130
+beautiful,ocean beach,view,1,233,142
+nice,beach,view,1,225,142
+romantic,beach,view,1,16,142
+good,beach,view,1,155,142
+right there,beach,view,1,224,142
+somewhat isolated,beach,view,1,93,142
+delicious,food,food,1,188,102
+nice,food,food,1,219,102
+lovely,food,food,1,188,102
+excellent,eating,food,1,194,102
+wonderful,restaurant,food,1,207,102
+really cool,restaurants,food,1,11,102
+decent,food,food,1,112,102
+good,food,food,1,187,102
+lovely,cafe,food,1,232,93
+good,cafe,food,1,241,93
+nice,coffee shop,coffee,1,112,93
+best,café,food,1,233,93
+nice,cafes,food,1,228,93
+good,coffee,coffee,1,244,93
+nice,cafes,food,1,204,93
+good,cafe,food,1,225,93
+good,cafe,food,1,34,93
+lovely,cafe,food,1,35,93
+nice,cafe shops,food,1,64,93
+great,cafe,food,1,188,93
+easy,access,location,1,25,136
+close to,location,location,1,179,136
+within walking distance,venue,location,1,168,136
+really close to,motel,location,1,84,136
+very convenient,get around,location,1,10,136
+good,orientation point,location,1,189,136
+easy,access into the city,location,1,188,136
+pretty convenient,place,location,1,223,136
+not hard to get,downtown,location,1,82,136
+next to,location,location,1,241,136
+convenient,location,location,1,227,136
+excellent,public transport,location,1,89,139
+knowledgeable,public transport routes,location,1,95,139
+real close to,public transportation,location,1,75,139
+easy,commuting,location,1,240,139
+right at the end,access to easy transportation,location,1,256,139
+good,connection to downtown,location,1,173,139
+really close to,public transport,location,1,18,139
+excellent,transport to the city,location,1,244,139
+close to,public transport stops,location,1,186,139
+great,access to public transport,location,1,164,139
+right next,public transit,location,1,36,139
+right there,transport to the city,location,1,244,139
+convenient to,public transportation,location,1,59,139
+good,location to public transit,location,1,248,139
+good,access to public transport,location,1,164,139
+good for,transit,location,1,118,139
+not enough,hot water,bathroom,0,77,276
+not very hot,hot water,bathroom,0,228,276
+not very hot,hot water,bathroom,0,204,276
+very low,hot water,bathroom,0,204,276
+very low,hot water,bathroom,0,228,276
+easy,parking,parking,1,27,88
+good,parking,parking,1,27,88
+nice,parking,parking,1,223,88
+convenient,parking,parking,1,71,88
+great,parking,parking,1,142,88
+perfect,parking,parking,1,40,88
+old,place,style,0,108,79
+old,motel,style,0,190,79
+old,facility,style,0,31,79
+old,facility,style,0,256,79
+very dated,motel,style,0,105,79
+old,hotel,style,0,72,79
+old,place,style,0,5,79
+really old,hotel,style,0,130,79
+dated,hotel,style,0,60,79
+rude,customer service,staff,0,126,62
+no interest,customer care,staff,0,34,62
+very unpolite,staff,staff,0,211,62
+super rude,staff,staff,0,46,62
+unfreindly,man,staff,0,238,62
+rude,staff,staff,0,101,62
+unfriendly,staff,staff,0,230,62
+very rude,personnel,staff,0,41,62
+rude,staff,staff,0,235,62
+very rude,staff,staff,0,34,62
+hostile,attitude,staff,0,226,62
+most rudest,people,staff,0,260,62
+rude to,staff,staff,0,200,62
+not nice,staff,staff,0,208,62
+rude,staff,staff,0,203,62
+rude,lady,staff,0,32,62
+extremely rude,man,staff,0,227,62
+just across,golden gate park,location,1,240,131
+within walking distance,golden gate park,location,1,5,131
+20 mins drive,golden gate bridge,location,1,232,131
+close to,golden gate park,location,1,107,131
+very close,golden gate park,location,1,83,131
+very close,golden gate park,location,1,5,131
+really poor,area,location,0,47,134
+not the best,neighborhood,location,0,120,134
+troublesome,neighborhood,location,0,35,134
+rough,neighborhood,location,0,236,134
+bad,area,location,0,246,134
+clean,room,cleanliness,1,155,211
+very clean,room,cleanliness,1,57,211
+clean,room,cleanliness,1,96,211
+clean,room,cleanliness,1,250,211
+clean,room,cleanliness,1,105,211
+fairly clean,room,cleanliness,1,100,211
+clean,room,cleanliness,1,114,211
+clean,room,cleanliness,1,232,211
+clean,room,cleanliness,1,220,211
+a little high,price,price,0,229,106
+most expensive,motel,price,0,244,106
+too high,price,price,0,49,106
+too high,price,price,0,204,106
+highest,price,price,0,84,106
+too high,price,price,0,228,106
+not clean,room,cleanliness,0,152,231
+filthy,room,cleanliness,0,200,231
+dirty,room,cleanliness,0,98,231
+filthy,room,cleanliness,0,41,231
+filthy,room,cleanliness,0,46,231
+so dirty,room,cleanliness,0,199,231
+not cleaned,room,cleanliness,0,15,231
+friendly,manager,staff,1,190,55
+friendly,managers,staff,1,240,55
+friendly,management,staff,1,241,55
+nice,lady owner,staff,1,69,55
+very nice,owners,staff,1,50,55
+nice,owners,staff,1,193,55
+nice,owners,staff,1,224,55
+very nice,owners,staff,1,25,55
+not in good working order,room,room,0,162,166
+pretty worn down,room,room,0,226,166
+very shabby,rooms,room,0,107,166
+worn down,room,room,0,203,166
+worn down,rooms,room,0,9,166
+unfriendly,management,staff,0,181,56
+not very friendly,manager,staff,0,110,56
+weird,management,staff,0,151,56
+not very friendly,manager,staff,0,152,56
+uninterested,managers,staff,0,212,56
+not very friendly,manager,staff,0,44,56

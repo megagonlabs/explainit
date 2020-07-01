@@ -1,0 +1,521 @@
+modifier,aspect,attribute,sentiment,review_id,gold
+mediocre,continental breakfast,food,0,216,130
+mediocre,breakfast,food,0,216,130
+good enough,breakfast,food,0,54,130
+nothing special,breakfast,food,0,155,130
+decent,breakfast,food,1,196,130
+ok,breakfast,food,0,145,130
+available,breakfast,food,0,61,130
+simple,breakfast,food,0,92,130
+good cheap,hotel,price,1,101,140
+great,price,price,1,233,140
+very cheap,hotel,price,1,171,140
+cheaper,price,price,1,24,140
+great,cost effectiveness,price,1,152,140
+good,price,price,1,108,140
+affordable,place,price,1,250,140
+great,price,price,1,225,140
+budget,hotel,price,1,143,140
+good good,price,price,1,189,140
+nice,price,price,1,6,140
+convenient,budget price,price,1,229,140
+reasonable,prices,price,1,140,140
+fairly cheap,place,price,1,198,140
+cheap,place,price,1,176,140
+cheap,hotel,price,1,107,140
+very cheap,hotel,price,1,201,140
+cheap,price,price,1,169,140
+cheap,rates,price,1,53,140
+cheap,place,price,1,154,140
+very good,price,price,1,108,140
+cheap,place,price,1,196,140
+very reasonable,price,price,1,223,140
+excellent,price,price,1,31,140
+low,price,price,1,246,140
+very reasonable,cost,price,1,115,140
+excellent,price,price,1,206,140
+fair,price,price,1,178,140
+good,value for the money,price,1,17,140
+good,price,price,1,80,140
+reasonable,price,price,1,246,140
+very reasonable,price,price,1,6,140
+fantastic,price,price,1,236,140
+reasonable,prices,price,1,5,140
+offensive,staff,staff,0,32,59
+beyond bad,service,staff,0,180,59
+not cool,people,staff,0,173,59
+horrible,service,staff,0,199,59
+rude,staff,staff,0,99,59
+not coperative,staff,staff,0,209,59
+not live up to,staff,staff,0,32,59
+horrible,customer service,staff,0,81,59
+very bad,customer service,staff,0,25,59
+not better,personnal,staff,0,71,59
+extremely rude,guy,staff,0,85,59
+rude,person,staff,1,39,59
+always helpful,front desk service,staff,1,10,53
+great,front desk people,staff,1,127,53
+nice,front desk,staff,1,158,53
+apprehensive,front desk clerk,staff,1,22,53
+pleasant,front desk clerk,staff,1,22,53
+extremely helpfull,front desk staff,staff,1,67,53
+very friendly,reception staff,staff,1,64,53
+nice,front staff,staff,1,103,53
+great,staff,staff,1,235,58
+helpful,staff,staff,1,17,58
+very good,service,staff,1,239,58
+great,employees,staff,1,128,58
+obliging,staff,staff,1,115,58
+pleasant,staff,staff,1,232,58
+excellent,staff,staff,1,83,58
+very nice,employees,staff,1,60,58
+super friendly,guy,staff,1,109,58
+nice,staff,staff,1,181,58
+friendly effecient,staff,staff,1,184,58
+excellent,staff,staff,1,75,58
+friendly,staff,staff,1,70,58
+great,staff,staff,1,108,58
+kind,staff,staff,1,40,58
+very friendly,staff,staff,1,161,58
+friendly,staff,staff,1,26,58
+helpfull,staff,staff,1,101,58
+very nice,staff,staff,1,230,58
+good care,staff,staff,1,170,58
+great,staff,staff,1,205,58
+very pleasant,staff,staff,1,75,58
+excellent friendly,staff,staff,1,79,58
+accommodating,hotel staff,staff,1,74,58
+very friendly,gentlemen,staff,1,162,58
+helpful,staff,staff,1,86,58
+excellent,staff,staff,1,123,58
+helpful,staff,staff,1,155,58
+helpful,staff,staff,1,207,58
+nice,staff,staff,1,95,58
+quite friendly,hotel staff,staff,1,225,58
+very friendly,personnel,staff,1,140,58
+very friendly,staff,staff,1,182,58
+great,staff,staff,1,189,58
+friendly,staff,staff,1,226,58
+friendly,hotel staff,staff,1,112,58
+friendly,staff,staff,1,92,58
+excellent,service,staff,1,134,58
+nice,staff,staff,1,173,58
+friendly,staff,staff,1,208,58
+friendly,staff,staff,1,61,58
+nice,staff,staff,1,1,58
+friendly,staff,staff,1,223,58
+cool,staff,staff,1,218,58
+friendly,staff,staff,1,46,58
+really friendly,staff,staff,1,204,58
+so nice,hotel staff,staff,1,165,58
+very friendly,staff,staff,1,206,58
+great,staff,staff,1,19,58
+friendly,staff,staff,1,58,58
+accommodating,hotel staff,staff,1,80,58
+nice,staff,staff,1,107,58
+very excellent,service,staff,1,134,58
+friendly,staff,staff,1,40,58
+friendly,staff,staff,1,192,58
+friendly,staff,staff,1,98,58
+very good,service,staff,1,231,58
+helpful,staff,staff,1,120,58
+very friendly,staff,staff,1,93,58
+nice,staff,staff,1,217,58
+very friendly,hotel,staff,1,93,58
+very friendly,staff,staff,1,11,58
+very good,staff,staff,1,231,58
+friendly,staff,staff,1,45,58
+excellent,staff,staff,1,212,58
+very friendly,staff,staff,1,47,58
+very very friendly towards,clerks,staff,1,198,58
+very helpful,staff,staff,1,221,58
+great,guy,staff,1,84,58
+not ideal,location,location,0,21,167
+bad,location,location,0,228,167
+not very good,location,location,0,178,167
+shadier,neighborhoods,location,0,40,167
+worst,location,location,0,129,167
+bad,neighbourhood,location,0,201,167
+not the best,neighborhood,location,0,107,167
+a little sketchy,neighborhood,location,0,179,167
+very sketchy,location,location,0,216,167
+not the best,neighborhood,location,0,184,167
+really bad,neighborhood,location,0,52,167
+very very sketchy,immediate neighborhood,location,0,9,167
+very sketchy,neighborhood,location,0,53,167
+poor,neighborhood,location,0,194,167
+not in a safe neighborhood,location,location,0,238,167
+tough,neighborhood,location,0,83,167
+scary,location,location,0,109,167
+terrible,neighborhood,location,0,199,167
+a little sketchy,neighborhood,location,0,168,167
+a bit sketchy,neighborhood,location,0,60,167
+not the best,location,location,0,37,167
+scary,neighborhood,location,0,32,167
+sketchy,neighborhood,location,0,96,167
+not so good,neighborhood,location,0,140,167
+scary at night,neighborhood,location,0,6,167
+a bit sketchy,neighborhood,location,0,155,167
+horrible,area,location,0,30,167
+a bit sketchy,neighborhood,location,0,49,167
+rough,location,location,0,160,167
+not better,area of sf,location,0,71,167
+bad,area,location,0,69,167
+rough,neighborhood,location,0,192,167
+horrible,neighborhood,location,0,84,167
+very small,rooms,size,0,66,329
+quite small,room,size,0,107,329
+a bit small,rooms,size,0,101,329
+extremely small,room,size,0,85,329
+cramped,rooms,size,0,190,329
+surprisingly small,room,size,0,23,329
+so small,room,size,0,76,329
+tiny,rooms,size,0,191,329
+small,rooms,size,0,17,329
+small,room,size,0,239,329
+so cramped,room,size,0,91,329
+too too too small,room,size,0,62,329
+very small,rooms,size,0,110,329
+small,room,size,0,184,329
+cramped,room,size,0,150,329
+extremely small,room size,size,0,168,329
+too small,rooms,size,0,237,329
+tiny,room,size,0,166,329
+tiny,rooms,size,0,29,329
+small,room,size,0,95,329
+small,rooms,size,0,249,329
+small,rooms,size,0,42,329
+very very small,rooms,size,0,35,329
+very small,rooms,size,0,228,329
+smaller,rooms,size,0,149,329
+small,room,size,0,22,329
+small,room,size,0,46,329
+a walking distance,shopping,location,1,41,168
+lots of,shopping,location,1,40,168
+close from,shopping,location,1,41,168
+3 blocks away,shopping,location,1,40,168
+nearby,shopping malls,location,1,187,168
+perfect,shopping areas,location,1,23,168
+tons of,shopping,location,1,168,168
+a couple blocks from,shopping areas,location,1,23,168
+less than desirable,inn,general,0,40,15
+awful,experience,general,0,164,15
+worst,hotel,general,0,61,15
+bad,place,general,0,191,15
+rotten,experience,general,0,104,15
+close from,city,location,1,41,159
+walking distance to,important sites,location,1,61,159
+close to,downtown,location,1,209,159
+a walking distance,city,location,1,41,159
+great,city centre,location,1,108,159
+very convenient,location,location,1,141,159
+very close,everything,location,1,211,159
+close to,city centre,location,1,108,159
+5 min walk,downtown,location,1,101,159
+right in the middle,hotel,location,1,174,159
+convenient,activities,location,1,119,159
+easy to,attraction place,location,1,227,159
+convenient,location,location,1,229,159
+convenient,location,location,1,86,159
+very convenient,location,location,1,57,159
+quite close to,center of sf,location,1,123,159
+pretty handy,location,location,1,95,159
+conveniently located,hotel,location,1,121,159
+conveniently located,hotel,location,1,181,159
+central,location,location,1,198,159
+very convenient,hotel,location,1,201,159
+very covenient,location,location,1,26,159
+central,place,location,1,198,159
+very conveniently located,hotel,location,1,14,159
+centrally located,hotel,location,1,208,159
+good,breakfast,food,1,112,133
+nice,breakfast,food,1,201,133
+great,breakfast,food,1,108,133
+good,breakfast,food,1,219,133
+very good,breakfast,food,1,108,133
+great,breakfast place,food,1,175,133
+great,breakfast,food,1,34,133
+most amazing,breakfast,food,1,168,133
+clean,bathroom,cleanliness,1,123,242
+clean,bathroom,cleanliness,1,200,242
+clean,bathroom,cleanliness,1,27,242
+clean,bathroom,cleanliness,1,154,242
+clean,bathroom,cleanliness,1,17,242
+very clean,bathrooms,cleanliness,1,168,242
+clean,bathroom,cleanliness,1,177,242
+very clean,bathroom,cleanliness,1,5,242
+horrible,room,room,0,74,212
+terrible,rooms,room,0,21,212
+disgusting,room,room,0,104,212
+disgusting,room,room,0,32,212
+gross,rooms,room,0,193,212
+gross,rooms,room,0,195,212
+nice,floor,room,1,200,214
+loved,hardwood floors,room,1,162,214
+nice,wood floors,room,1,129,214
+remodeled,wood floors,room,1,182,214
+gorgeous,hardwood floor,room,1,22,214
+gorgeous,hardwood,room,1,51,214
+nice,hardwood,room,1,200,214
+nice,wood flooring,room,1,54,214
+quick,access to that,location,1,191,169
+easy,access to bus and train,location,1,61,169
+very close to all,transport,location,1,47,169
+great,location for public transportation,location,1,9,169
+extremely convenient,travel around the city,location,1,54,169
+very convenient,travel,location,1,141,169
+good,public transportation,location,1,182,169
+decent walking distance to,major transport systems,location,1,168,169
+very well connected,transportation,location,1,26,169
+near to,transportation route,location,1,187,169
+convenient,location to transportation,location,1,184,169
+not work,wifi,wifi,0,154,299
+virtually nonexistent,wifi,wifi,0,217,299
+marginal,wireless,wifi,0,49,299
+problem,wifi,wifi,0,46,299
+bad,wifi,wifi,0,139,299
+weak,wifi,wifi,0,47,299
+broken,wifi,wifi,0,216,299
+not work,wi,wifi,0,223,299
+old,hotel,style,0,149,83
+kinda old,building,style,0,181,83
+old,hotel,style,0,127,83
+older,hotel,style,0,195,83
+older,building,style,0,196,83
+quaint old,building,style,0,42,83
+old,hotel,style,0,71,83
+old,building,style,0,225,83
+older,hotel,style,0,193,83
+nice old,building,style,1,92,83
+old,building,style,0,112,83
+old,hotel,style,0,188,83
+very old,building,style,0,15,83
+excellent,location,location,1,179,162
+perfect,location,location,1,23,162
+great,location,location,1,10,162
+quite good,location,location,1,232,162
+friendly,location,location,1,146,162
+good,location,location,1,76,162
+perfect,location,location,1,179,162
+reasonable,location,location,1,246,162
+great,location,location,1,202,162
+great,location,location,1,225,162
+fine,location,location,1,192,162
+great,location,location,1,168,162
+great,location,location,1,40,162
+good for,location,location,1,60,162
+great,location,location,1,170,162
+good,location,location,1,222,162
+good,location,location,1,157,162
+good,location,location,1,46,162
+good,locale,location,1,176,162
+best,locations,location,1,187,162
+extremely good,location,location,1,58,162
+not bad,location,location,1,36,162
+great,location,location,1,18,162
+good,location,location,1,123,162
+nice,location,location,1,90,162
+good,hotel location,location,1,61,162
+perfect,area,location,1,101,162
+best,area,location,1,204,162
+great,location,location,1,5,162
+excellent,location,location,1,47,162
+great,location,location,1,44,162
+clean,rooms,cleanliness,1,17,240
+clean,rooms,cleanliness,1,149,240
+ok,cleaning,cleanliness,1,58,240
+clean,rooms,cleanliness,1,145,240
+clean,rooms,cleanliness,1,178,240
+very clean,room,cleanliness,1,232,240
+clean,room,cleanliness,1,220,240
+very clean,rooms,cleanliness,1,189,240
+very clean,rooms,cleanliness,1,165,240
+clean,room,cleanliness,1,169,240
+very clean,room,cleanliness,1,102,240
+very clean,room,cleanliness,1,5,240
+relatively clean,room,cleanliness,1,64,240
+clean,room,cleanliness,1,34,240
+clean,rooms,cleanliness,1,93,240
+very clean,rooms,cleanliness,1,134,240
+clean,room,cleanliness,1,185,240
+clean,room,cleanliness,1,196,240
+nice clean,rooms,cleanliness,1,130,240
+comfortable,room,comfort,1,204,294
+reasonably comfortable,rooms,comfort,1,155,294
+comfortable,rooms,comfort,1,35,294
+comfortable,room,comfort,1,201,294
+pleasant,room,comfort,1,54,294
+just outside,union square,location,1,109,171
+very close to,union square,location,1,31,171
+only one and a half blocks from,union square,location,1,169,171
+close from,union square,location,1,41,171
+4 blocks from,union square,location,1,17,171
+within walking distance,union square,location,1,58,171
+3 blocks from,union square,location,1,180,171
+close to,union square san francisco,location,1,44,171
+one block away from,union square,location,1,181,171
+very reasonable,proximity to union square,location,1,115,171
+close to,union square,location,1,181,171
+just three blocks from,union square,location,1,35,171
+3 blocks,union square,location,1,19,171
+really close,union square,location,1,16,171
+only 5 minutes away from,unionsquare,location,1,37,171
+walking distance,union square,location,1,70,171
+close to,walking to union square,location,1,233,171
+near to,union square,location,1,169,171
+very close to,union square,location,1,109,171
+close to,union square,location,1,58,171
+a walking distance,union square,location,1,41,171
+clean,hotel,cleanliness,1,163,238
+clean,hotel,cleanliness,1,178,238
+clean,hotel,cleanliness,1,169,238
+clean,hostel,cleanliness,1,241,238
+clean,hotel,cleanliness,1,34,238
+reachable,trams,location,1,220,170
+within within walking distance to,trolly line,location,1,192,170
+a couple of blocks away,trolley stop,location,1,57,170
+ideally placed,street cars,location,1,204,170
+- 10 min walk away,cable cars,location,1,204,170
+good,rooms,room,1,123,213
+great,room,room,1,235,213
+not bad,room,room,1,38,213
+decent,room,room,1,216,213
+good,rooms,room,1,189,213
+fine,room,room,1,174,213
+ok,room,room,0,180,213
+great,room,room,1,162,213
+decent,room,room,1,106,213
+fine,room,room,1,57,213
+nice,room,room,1,192,213
+cute,rooms,room,1,129,213
+nice,rooms,room,1,20,213
+fine,room,room,1,9,213
+quite nice,room,room,1,49,213
+nice,room,room,1,188,213
+great,room,room,1,200,213
+so nice,room,room,1,88,213
+good good,rooms,room,1,189,213
+great,rooms,room,1,31,213
+good,rooms,room,1,139,213
+fine,room,room,1,8,213
+good,place,general,1,96,3
+great,hotel,general,1,2,3
+great,stay,general,1,182,3
+quite positive,general,general,1,170,3
+nice,hotel,general,1,107,3
+best,hotels,general,1,64,3
+perfect,hotel,general,1,179,3
+very good,overall experience,general,1,239,3
+good,stay,general,1,123,3
+quite good,hotel,general,1,140,3
+quality,place,general,1,239,3
+excellent,hotel,general,1,83,3
+best,hotel,general,1,98,3
+enjoyable,stay,general,1,115,3
+good,place,general,1,196,3
+good,place,general,1,93,3
+perfect perfect,place,general,1,239,3
+very satisfied,hotel,general,1,141,3
+good,stay,general,1,124,3
+great,overall experience,general,1,239,3
+great,place,general,1,252,3
+good,stay,general,1,5,3
+great,hotel,general,1,189,3
+great,hotel,general,1,225,3
+great,hotel,general,1,19,3
+really nice,hotel,general,1,101,3
+great,place,general,1,251,3
+good,hotel,general,1,178,3
+good,hotel,general,1,6,3
+good,stay,general,1,188,3
+good,hotel,general,1,182,3
+nice,hotel,general,1,6,3
+nice,place,general,1,250,3
+plenty of,places to eat,food,1,204,113
+near,places to eat,food,1,204,113
+plenty of,restaurants,food,1,47,113
+plenty of,resturaunts,food,1,203,113
+availability,restaurants,food,1,70,113
+lots of,restaurnats,food,1,26,113
+clean,bedroom,cleanliness,1,177,246
+clean,linens,cleanliness,1,154,246
+clean,sheets,cleanliness,1,182,246
+very clean,beadroom,cleanliness,1,181,246
+clean,sheets,cleanliness,1,84,246
+clean,bed,cleanliness,1,123,246
+clean,sheets,cleanliness,1,51,246
+clean,bedding,cleanliness,1,96,246
+decent clean,bed,cleanliness,1,203,246
+clean,beds,cleanliness,1,96,246
+ok,hotel,general,1,187,20
+decent,hotel,general,1,136,20
+reasonable,hotels,general,1,5,20
+quite acceptable,hotel,general,1,143,20
+fine,hotel,general,1,192,20
+ok,hotel,general,1,161,20
+fine,hotel,general,1,8,20
+noisy at night,rooms,quietness,0,66,313
+extremely noisy,hotel,quietness,0,225,313
+deafening,room,quietness,0,225,313
+noisy,hotel,quietness,0,161,313
+too much,noise,quietness,0,59,313
+very noisy,room,quietness,0,221,313
+lot of,noise,quietness,0,192,313
+very loud,noise,quietness,0,11,313
+unpleasent,smell,cleanliness,0,38,249
+very strong,smell of,cleanliness,0,154,249
+strong,scent of,cleanliness,0,51,249
+unusual,smells,cleanliness,0,28,249
+strange,smell,cleanliness,0,38,249
+horrible,smells,cleanliness,0,52,249
+thin,smell,cleanliness,0,224,249
+not clean,room,cleanliness,0,167,248
+very dirty,rooms,cleanliness,0,4,248
+not very clean,room,cleanliness,0,92,248
+not nearly as clean,room,cleanliness,0,214,248
+dirty,place,cleanliness,0,87,248
+not very clean,room,cleanliness,0,38,248
+not nearly as clean,rooms,cleanliness,0,214,248
+seedy,homeless people,staff,0,74,55
+really seedy,homeless people,staff,0,169,55
+packed with,homeless people,staff,0,191,55
+lots of,homeless people,staff,0,154,55
+lots of,homeless people,staff,0,169,55
+friendly,homeless people,staff,0,168,55
+lots of,street people,staff,0,57,55
+free,internet,wifi,1,123,298
+free,wi,wifi,1,236,298
+free,signal,wifi,1,47,298
+free,wifi,wifi,1,47,298
+free,wi,wifi,1,143,298
+free,wifi,wifi,1,154,298
+free,wi,wifi,1,182,298
+free,wi,wifi,1,140,298
+comfort,bed,bed,1,1,278
+comfortable,bed,bed,1,80,278
+comfortable,bed,bed,1,47,278
+comfortable,bed,bed,1,225,278
+very confortable,bed,bed,1,95,278
+comfortable,bed,bed,1,181,278
+amazingly comfortable,bed,bed,1,51,278
+comfy,bed,bed,1,235,278
+worse,coffee,coffee,0,190,127
+gross,coffee,coffee,0,96,127
+stale,coffee,coffee,0,222,127
+horrible,coffee,coffee,0,154,127
+bad,coffee,coffee,0,222,127
+lots,homeless shelters,general,0,178,12
+lots of,drug users,general,0,154,12
+lots of,homeless,general,0,246,12
+horrible,homeless,general,0,84,12
+full,drug addicts,general,0,172,12
+filthy,carpets,cleanliness,0,173,236
+dirty,carpet,cleanliness,0,65,236
+dirty,carpet,cleanliness,0,5,236
+extremely dirty,carpets,cleanliness,0,24,236
+stained,carpet,cleanliness,0,194,236
+cool,sheets,bed,1,182,275
+excellent,linen,bed,1,47,275
+great,bedding,bed,1,200,275
+good,linen,bed,1,47,275
+great value,bedding,bed,1,161,275
