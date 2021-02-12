@@ -1,4 +1,4 @@
-# ExplainIt: Constructing Explainable Opinion Graphs from Reviews
+# ExplainIt: Constructing Explainable Opinion Graphs from Reviews (WWW 2021)
 
 
 This repository contains annotated datasets in [this paper](https://arxiv.org/abs/2006.00119).
