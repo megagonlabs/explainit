@@ -3,6 +3,8 @@
 
 This repository contains annotated datasets in [this paper](https://arxiv.org/abs/2006.00119).
 
+Detailed instructions can be found at two sub-folders: "explanation_mining/" and "opinion_canonicalization/". 
+
 
 ## Citation
 

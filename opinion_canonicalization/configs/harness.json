@@ -1,0 +1,18 @@
+{
+	"config": "configs/config.json", // configuration file
+	"input_dir": "data/hotel/",   // input directory
+	"output_dir": "data/output",  // output directory
+	"file_names": [
+		"095a69d7-1ede-4df0-a299-7f391a4246b1", 
+		"8fcb8560-da26-458b-82ae-1d053b91d041",
+		"1f92697c-da15-420b-a079-9a1c7c11fcce", 
+		"b2015d76-2911-44ca-89fa-1eb234284ad0",
+		"4ef844a2-0666-4007-9ad8-325b5205cd75", 
+		"d1cf83d3-b037-49de-848b-978b2e4d55ad",
+		"738d4b59-8daa-4d31-8dc6-86045dbe23a6",
+		"e3c4e15e-244f-48da-9e19-bd98805d0308",
+		"7e4872c9-e993-4ca0-8aff-409c8fa63fb9",
+		"f2a30841-024d-4345-9f97-a35aaa873b2f",
+		"81b50c50-6be8-4da9-82a6-37b7ac254d26"
+	]
+}

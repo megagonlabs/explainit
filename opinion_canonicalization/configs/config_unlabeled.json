@@ -1,0 +1,36 @@
+{
+    "target_cols": [
+        "modifier", // columns to encode from the input
+        "aspect"    // columns to encode from the input
+    ],
+    "auxiliary_cols": [ 
+        {
+            "col": "attribute", // Labels used for aspect category loss
+            "loss_ratio": 1.0  //  lambda (weight) for the current loss
+        },
+        {
+            "col": "sentiment", // Labels used for polarity loss
+            "loss_ratio": 0.5   //  lambda (weight) for the current loss
+        }
+    ],
+    "edges": {
+        "loss_ratio": 0.2, //  lambda (weight) for intra-cluster explanation loss
+        "lr":1e-5
+    },
+    "cluster": {
+        "method": "kmeans", // basic clustering function, choose from (kmeans, kmeans_vqvae (run faster), gmm, greedy)
+        "n_cluster": 50, // number of clusters, required for kmeans, kmeans_vqvae, gmm
+        "max_iter": 30  // maximum iterations, required for greedy
+    },
+    "embedding": {
+        "w2v_model": "glove-wiki-gigaword-300", // initial embedding
+        "batch_size": 128,  // embedding finetuning hyper-parameters
+        "n_epochs": 30,   // embedding finetuning hyper-parameters
+        "lr": 0.001,  // embedding finetuning hyper-parameters
+        "n_sample": 20,  // embedding finetuning hyper-parameters
+        "n_inititer": 10  // embedding finetuning hyper-parameters
+    },
+    "max_attemp":1, // maximum attempts for initial clustering/embedding finetuning module
+    "num_runs": 1,  // number of random runs
+    "eval": ""
+}
