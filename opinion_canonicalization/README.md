@@ -32,5 +32,5 @@ Note that the current data does not include the predicted edges, thus intra-clus
 
 modifier,aspect,modifier,aspect"
 
-Name the file as "<file\_name>\_edges" and put it in the input directory, specified in "configs/harness.json"
+Name the file as \"<file\_name>\_edges", e.g., "1f92697c-da15-420b-a079-9a1c7c11fcce\_edges", and put it in the input directory, specified in "configs/harness.json"
 
